@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+}
+.navbar{
+    width: 100%;
+    background-color: black;
+}
+.topright{
+    width: 1.5rem;
+}
+.banner{
+    width: 100%;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 100%;
+}
+.inner_products img{
+    width: 100%;
+}
+.box{
+    background-color: black;
+}
+
+.footer_inner ul{
+        padding: 0%;
+        list-style-type: none;
+}
+.footer_inner img{
+    width: 17%;
+}
